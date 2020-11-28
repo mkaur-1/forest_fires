@@ -9,4 +9,4 @@ This project intends on:
 
 3.Vulnerable areas
 
-4. Times of the Year/Days that might be more dangerous other
+4.Times of the Year/Days that might be more dangerous other
